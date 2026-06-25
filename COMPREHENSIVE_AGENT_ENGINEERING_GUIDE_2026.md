@@ -2878,7 +2878,7 @@ final_answer("\n".join(results))
 
 Skills are **Markdown files**, not compiled code. The agent reads the instructions at runtime.
 
-```markdown
+````markdown
 # SKILL: Create GitHub Release
 
 ## When to Use
@@ -2918,7 +2918,7 @@ When the user asks to create a new release, tag a version, or publish a release.
 
 ## Output
 Report the release URL to the user.
-```
+````
 
 ### Why Markdown Skills Work
 
@@ -3427,7 +3427,7 @@ Savings: 94%
 
 #### SKILL.md Structure (Claude Agent Skills Spec)
 
-```markdown
+````markdown
 ---
 name: create-github-pr
 description: Create and manage GitHub pull requests with proper templates and labels
@@ -3463,7 +3463,7 @@ description: Create and manage GitHub pull requests with proper templates and la
 
 ## Output
 Report PR URL and status to user.
-```
+````
 
 **Key rules for SKILL.md:**
 - Keep body under **500 lines** (split into reference files if longer)
