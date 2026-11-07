@@ -107,7 +107,7 @@ Things we found that weren't obvious:
 | 24 | [PydanticAI](https://github.com/pydantic/pydantic-ai) | 15.1k+ | Agent Framework |
 | 25 | [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) | 15k+ | Agent SDK |
 | 26 | [Hermes Agent](https://github.com/NousResearch/hermes-agent) | 8.3k+ | Self-Improving |
-| 27 | [Composio](https://github.com/ComposioHQ/agent-orchestrator) | 8k+ | Orchestrator |
+| 27 | [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | 8k+ | Orchestrator |
 | 28 | [Stagehand](https://github.com/browserbase/stagehand) | 8k+ | Browser Agent |
 | 29 | [AWS Agent Squad](https://github.com/awslabs/agent-squad) | 5k+ | Orchestrator |
 | 30 | [Devika](https://github.com/stitionai/devika) | — | AI Engineer |
